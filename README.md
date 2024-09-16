@@ -5,8 +5,8 @@
 To complete the Q-SITE Classiq Coding challenge, you must:
 * Fork this GitHub repository
 * Work on the four notebooks which comprise the challenge in your fork
-* Add your solution QASM files to be submitted for grading
-* Create a pull request which includes all your submissions
+* Once completed, you should have a QASM file generated from each of the notebooks
+* Copy and paste your solution QASM files to the autograder
 
 ## Tutorial
 
