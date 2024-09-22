@@ -11,6 +11,8 @@ To complete the Q-SITE Classiq Coding challenge, you must:
 
 (Note: Forking is suggested because it allows you to work on it together with your team, and update the files with your progress along the way.)
 
-## Tutorial
+For additional details regarding the Classiq SDK in particular, we recommend revisiting the recording of the Classiq workshop from Friday, Sept 20, or sending a message on the Q-SITE conference server.
 
-Tutorial video demonstrating the above instructions coming soon
+## Tutorial
+Here is a demonstration for the above steps.
+https://github.com/user-attachments/assets/5b6bc145-dc72-4a24-a670-c3ec1bde0466
