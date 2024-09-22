@@ -15,4 +15,4 @@ For additional details regarding the Classiq SDK in particular, we recommend rev
 
 ## Tutorial
 Here is a demonstration for the above steps.
-https://github.com/user-attachments/assets/5b6bc145-dc72-4a24-a670-c3ec1bde0466
+![tutorial-video](https://github.com/user-attachments/assets/5b6bc145-dc72-4a24-a670-c3ec1bde0466)
